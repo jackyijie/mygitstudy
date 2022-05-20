@@ -1,0 +1,3 @@
+this is good.txt
+this is I typed in vscode
+this is third line
